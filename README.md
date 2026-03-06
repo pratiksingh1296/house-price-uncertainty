@@ -151,7 +151,7 @@ Wider intervals indicate higher uncertainty, while narrower intervals indicate h
 ## Key Results
 
 ### Prediction Interval Example
-![Uncertainty](reports/figures/uncertainty_vs_price_level.png)
+![Uncertainty](reports/figures/Uncertainty_vs_Price_level.png)
 
 ---
 
@@ -182,4 +182,5 @@ Wider intervals indicate higher uncertainty, while narrower intervals indicate h
 ## Setup
 ```bash
 pip install -r requirements.txt
+
 ```
