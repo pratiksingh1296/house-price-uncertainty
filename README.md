@@ -151,6 +151,9 @@ Wider intervals indicate higher uncertainty, while narrower intervals indicate h
 ## Key Results
 
 ### Prediction Interval Example
+![Prediction Intervals](reports/figures/Prediction_intervals_for_sample_homes.png)
+
+### Prediction Interval Example
 ![Uncertainty](reports/figures/Uncertainty_vs_Price_level.png)
 
 ---
@@ -184,3 +187,4 @@ Wider intervals indicate higher uncertainty, while narrower intervals indicate h
 pip install -r requirements.txt
 
 ```
+
